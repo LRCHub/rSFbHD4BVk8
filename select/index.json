@@ -1,0 +1,272 @@
+{
+  "version": 1,
+  "base_track": "Super Star",
+  "base_artist": "Furui Riho",
+  "createdAt": "2026-03-02T10:06:14.163349Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Super Star Struck",
+      "artist": "Franc Moody",
+      "has_synced": false,
+      "path": "select/01_Super_Star_Struck_Franc_Moody.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jump Up, Super Star! (From \"Super Mario Odyssey\") [For Piano Solo]",
+      "artist": "Naoto Kubo feat. Shiho Fujii, Koji Kondo & daigoro789",
+      "has_synced": false,
+      "path": "select/02_Jump_Up,_Super_Star!_(From__Super_Mario_Odyssey_)_[For_Piano_Solo]_Naoto_Kubo_feat._Shiho_Fujii,_Koji_Kondo_&_daigoro789.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Super Star",
+      "artist": "S.H.E",
+      "has_synced": true,
+      "path": "select/03_Super_Star_S.H.E.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jump Up, Super Star!",
+      "artist": "The Living Tombstone",
+      "has_synced": true,
+      "path": "select/04_Jump_Up,_Super_Star!_The_Living_Tombstone.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Jump Up, Super Star!",
+      "artist": "The Super Mario Players feat.Kate Davis",
+      "has_synced": true,
+      "path": "select/05_Jump_Up,_Super_Star!_The_Super_Mario_Players_feat.Kate_Davis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jump Up, Super Star!",
+      "artist": "The Super Mario Players feat. Kate Davis",
+      "has_synced": true,
+      "path": "select/06_Jump_Up,_Super_Star!_The_Super_Mario_Players_feat._Kate_Davis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jump Up, Super Star!",
+      "artist": "The Super Mario Players",
+      "has_synced": true,
+      "path": "select/07_Jump_Up,_Super_Star!_The_Super_Mario_Players.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Jump Up Super Star Remix",
+      "artist": "The Living Tombstone",
+      "has_synced": true,
+      "path": "select/08_Jump_Up_Super_Star_Remix_The_Living_Tombstone.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Jump up Super Star (From \"Super Mario Odyssey\")",
+      "artist": "The 8-Bit Big Band feat. Grace Kelly",
+      "has_synced": true,
+      "path": "select/09_Jump_up_Super_Star_(From__Super_Mario_Odyssey_)_The_8-Bit_Big_Band_feat._Grace_Kelly.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jump up Super Star (From \"Super Mario Odyssey\")",
+      "artist": "The 8-Bit Big Band/Grace Kelly",
+      "has_synced": true,
+      "path": "select/10_Jump_up_Super_Star_(From__Super_Mario_Odyssey_)_The_8-Bit_Big_Band_Grace_Kelly.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Super Star Ni Nattara",
+      "artist": "Back Number",
+      "has_synced": true,
+      "path": "select/11_Super_Star_Ni_Nattara_Back_Number.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Super Star Ni Nattara",
+      "artist": "Back Number",
+      "has_synced": true,
+      "path": "select/12_Super_Star_Ni_Nattara_Back_Number.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Jump Up, Super Star! Remix",
+      "artist": "The Living Tombstone",
+      "has_synced": true,
+      "path": "select/13_Jump_Up,_Super_Star!_Remix_The_Living_Tombstone.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Jump up Super Star (From \"Super Mario Odyssey\")",
+      "artist": "The 8-Bit Big Band",
+      "has_synced": true,
+      "path": "select/14_Jump_up_Super_Star_(From__Super_Mario_Odyssey_)_The_8-Bit_Big_Band.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Super Star (prod. by Only1cartoon)",
+      "artist": "LOVV66",
+      "has_synced": true,
+      "path": "select/15_Super_Star_(prod._by_Only1cartoon)_LOVV66.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Super Freaky Girl",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/16_Super_Freaky_Girl_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Super Gremlin",
+      "artist": "Kodak Black",
+      "has_synced": true,
+      "path": "select/17_Super_Gremlin_Kodak_Black.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Scary Monsters (And Super Creeps)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/18_Scary_Monsters_(And_Super_Creeps)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Super Evil",
+      "artist": "Die Antwoord",
+      "has_synced": false,
+      "path": "select/19_Super_Evil_Die_Antwoord.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Super Stars",
+      "artist": "Yves Tumor",
+      "has_synced": true,
+      "path": "select/20_Super_Stars_Yves_Tumor.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Super Saiyan",
+      "artist": "Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/21_Super_Saiyan_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Super Bass",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/22_Super_Bass_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Super Highways",
+      "artist": "The Other Two",
+      "has_synced": false,
+      "path": "select/23_Super_Highways_The_Other_Two.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Super-Duper-Man",
+      "artist": "Toy-Box",
+      "has_synced": true,
+      "path": "select/24_Super-Duper-Man_Toy-Box.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Super Electric - Original Version",
+      "artist": "Bomfunk MC's",
+      "has_synced": false,
+      "path": "select/25_Super_Electric_-_Original_Version_Bomfunk_MC's.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Super Cell",
+      "artist": "Trippie Redd",
+      "has_synced": true,
+      "path": "select/26_Super_Cell_Trippie_Redd.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Super Sharp Shooter",
+      "artist": "The Ganja Kru",
+      "has_synced": false,
+      "path": "select/27_Super_Sharp_Shooter_The_Ganja_Kru.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Super Slimey",
+      "artist": "Yak Gotti",
+      "has_synced": false,
+      "path": "select/28_Super_Slimey_Yak_Gotti.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Super Crook Blues",
+      "artist": "Sigue Sigue Sputnik",
+      "has_synced": false,
+      "path": "select/29_Super_Crook_Blues_Sigue_Sigue_Sputnik.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Super Life",
+      "artist": "Chaka Khan",
+      "has_synced": true,
+      "path": "select/30_Super_Life_Chaka_Khan.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Super Overdrive",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/31_Super_Overdrive_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Altamont Super - Highway Revisited",
+      "artist": "Apollo 440",
+      "has_synced": false,
+      "path": "select/32_Altamont_Super_-_Highway_Revisited_Apollo_440.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Super Star",
+      "artist": "Furui Riho",
+      "has_synced": false,
+      "path": "select/pl_01_Super_Star_Furui_Riho.txt"
+    }
+  ]
+}
